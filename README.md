@@ -1,1 +1,1 @@
-put all these on a USB then run START.bat. Hide the rest of the files. Run ShutdownWifiHotspot if you want to remove the hotspot that the script creates.
+This is a script that subtly messes with people by periodically pressing Backspace, every 5min opening the CD drive, and starting a wifi hotspot on their computer with the name 'Pauliscool' To use:  put all these on a USB then run START.bat. Hide the rest of the files. Run ShutdownWifiHotspot if you want to remove the hotspot that the script creates.
